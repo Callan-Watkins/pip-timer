@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://callan-watkins.github.io/pip-timer/sitemap.xml

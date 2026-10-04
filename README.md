@@ -30,9 +30,9 @@ One countdown or a whole routine — easy to start, calm to follow.</p>
 - **Gentle by design.** No streaks and no guilt. Quiet display, dark mode, Dynamic Type, VoiceOver and Reduce Motion support.
 - **Private.** No account, no ads, no analytics, no network. Everything stays on your iPhone.
 
-## Free and Pip Pro
+## Free and Pip Pro (coming soon)
 
-Timers, alarms, widgets and the Lock Screen countdown are always free.
+Every feature is free to use at launch. An optional monthly Pip Pro is planned; timers, alarms, widgets and the Lock Screen countdown will always stay free.
 
 | | Free | Pip Pro |
 |---|---|---|
@@ -44,7 +44,7 @@ Timers, alarms, widgets and the Lock Screen countdown are always free.
 | Sounds | 6 | 10 |
 | Color themes | Sunny | 5 |
 
-Pip Pro is an optional monthly subscription ($4.99/month, price varies by country) that renews automatically until cancelled. Manage it in your Apple Account settings.
+Planned: Pip Pro as an optional monthly subscription ($4.99/month, price varies by country) that renews automatically until cancelled and is managed in your Apple Account settings.
 
 ## Requirements
 
